@@ -1,0 +1,22 @@
+{
+    "packages": [
+      {
+        "name": "Package 1",
+        "version": "1.0",
+        "link": "https://example.com/package1",
+        "description": "This is the first package."
+      },
+      {
+        "name": "Package 2",
+        "version": "2.3",
+        "link": "https://example.com/package2",
+        "description": "This is the second package."
+      },
+      {
+        "name": "Package 3",
+        "version": "4.5",
+        "link": "https://example.com/package3",
+        "description": "This is the third package."
+      }
+    ]
+  }
