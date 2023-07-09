@@ -21,7 +21,7 @@
         {
         "name": "Package 4",
         "version": "4.5",
-        "link": "https://example.com/package4",
+        "link": "http://prch-pkg.storage.googleapis.com/xaml-1688775251924.xaml",
         "description": "This is the third package."
       }
     ]
