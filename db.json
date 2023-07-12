@@ -1,28 +1,27 @@
 {
     "packages": [
       {
-        "name": "Package 1",
+        "name": "Word Automation Package",
         "version": "1.0",
         "link": "https://example.com/package1",
-        "description": "This is the first package."
+        "description": "A powerfull Collection of Activities to Work with Word Documents"
       },
       {
-        "name": "Package 2",
+        "name": "PDF Editing Package",
         "version": "2.3",
         "link": "https://example.com/package2",
-        "description": "This is the second package."
+        "description": "All the tools You need to play with PDFs"
       },
       {
-        "name": "Package 3",
+        "name": "BrowserAuto",
         "version": "4.5",
         "link": "https://example.com/package3",
-        "description": "This is the third package."
+        "description": "Automate the internet!"
       },
         {
-        "name": "Excell",
+        "name": "Excel",
         "version": "4.5",
         "link": "https://storage.googleapis.com/orch-activities/Excel.dll",
-        "description": "This is the third package."
-      }
+        "description": "Increased Set of Activities to work with Excell Worksheets"
     ]
   }
